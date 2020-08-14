@@ -91,7 +91,9 @@ const SimpleTable = ({ data, onNearTableEnd }: SimpleTableProps) => {
                       )}
                       {row.title}
                     </TableCell>
-                    <TableCell>{row.creation_date}</TableCell>
+                    <TableCell>
+                      {new Date(row.creation_date).toLocaleString()}
+                    </TableCell>
                   </TableRow>
                 </HtmlTooltip>
               </React.Fragment>
