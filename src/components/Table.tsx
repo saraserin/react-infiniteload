@@ -92,7 +92,7 @@ const SimpleTable = ({ data, onNearTableEnd }: SimpleTableProps) => {
                       {row.title}
                     </TableCell>
                     <TableCell>
-                      {new Date(row.creation_date).toLocaleString()}
+                      {new Date(row.creation_date * 1000).toLocaleString()}
                     </TableCell>
                   </TableRow>
                 </HtmlTooltip>
