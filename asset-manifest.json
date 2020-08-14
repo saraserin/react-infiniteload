@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-infiniteload/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/react-infiniteload/static/js/main.56f9f8de.chunk.js",
-    "main.js.map": "/react-infiniteload/static/js/main.56f9f8de.chunk.js.map",
+    "main.js": "/react-infiniteload/static/js/main.bda92914.chunk.js",
+    "main.js.map": "/react-infiniteload/static/js/main.bda92914.chunk.js.map",
     "runtime-main.js": "/react-infiniteload/static/js/runtime-main.d7f0c2de.js",
     "runtime-main.js.map": "/react-infiniteload/static/js/runtime-main.d7f0c2de.js.map",
     "static/js/2.635a5cca.chunk.js": "/react-infiniteload/static/js/2.635a5cca.chunk.js",
     "static/js/2.635a5cca.chunk.js.map": "/react-infiniteload/static/js/2.635a5cca.chunk.js.map",
     "index.html": "/react-infiniteload/index.html",
-    "precache-manifest.93dd2e320ee00fd8aa842570818afc5a.js": "/react-infiniteload/precache-manifest.93dd2e320ee00fd8aa842570818afc5a.js",
+    "precache-manifest.39974a2e28895575c50828111db16244.js": "/react-infiniteload/precache-manifest.39974a2e28895575c50828111db16244.js",
     "service-worker.js": "/react-infiniteload/service-worker.js",
     "static/css/main.27fd15f6.chunk.css.map": "/react-infiniteload/static/css/main.27fd15f6.chunk.css.map",
     "static/js/2.635a5cca.chunk.js.LICENSE.txt": "/react-infiniteload/static/js/2.635a5cca.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d7f0c2de.js",
     "static/js/2.635a5cca.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.56f9f8de.chunk.js"
+    "static/js/main.bda92914.chunk.js"
   ]
 }
